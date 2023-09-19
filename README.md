@@ -47,7 +47,7 @@
 
 - 🔭 Working on IA n Business  applications
 - 🌱 Learning Django, Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
+- 📫 How to contact me: https://scratch.mit.edu/users/Bl00dThirsty/, Bl00dThirsty (Discord), 
 
 Support ChatCool on KoFi:
 
