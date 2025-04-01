@@ -55,7 +55,7 @@
 ## What I'm Doing
 
 - 🔭 Working on IA n Business  applications
-- 🌱 Learning Django, Node.js & more
+- 🌱 Learning Spring boot, Node.js & cloud inf.
 - 📫 How to contact me: https://scratch.mit.edu/users/Bl00dThirsty/, Bl00dThirsty (Discord), 
 
 Support ChatCool on KoFi:
