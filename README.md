@@ -1,6 +1,6 @@
 ## Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71834&background=000000&width=435&lines=Blood+Thirsty!!!!!!!!!!!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71834&background=000000&width=435&lines=Hello+World!!!!!!!!!!!!!" alt="Typing SVG" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bl00dThirsty" alt="Bl00dThirsty" /></a> </p>
 <p align="right">
